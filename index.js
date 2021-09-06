@@ -63,7 +63,6 @@ const readmeEnd =
 ## inspiration
 
 inspired by [Markdown Badges](https://github.com/Ileriayo/markdown-badges), I wanted an automated way to generate accessible contrast versions of all the badges
-
 `;
 
 const readme = readmeStart + badgeLines.join('\n') + readmeEnd;

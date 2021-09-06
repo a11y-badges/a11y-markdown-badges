@@ -2022,6 +2022,7 @@ I suggest visiting the [README](README.md) file directly to better see the badge
 |Zorin|![Zorin](https://img.shields.io/badge/Zorin-0CC1F3.svg?style=for-the-badge&logo=zorin&logoColor=black)|`![Zorin](https://img.shields.io/badge/Zorin-0CC1F3.svg?style=for-the-badge&logo=zorin&logoColor=black)`|
 |Zotero|![Zotero](https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=zotero&logoColor=white)|`![Zotero](https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=zotero&logoColor=white)`|
 |Zulip|![Zulip](https://img.shields.io/badge/Zulip-FFFFFF.svg?style=for-the-badge&logo=zulip&logoColor=black)|`![Zulip](https://img.shields.io/badge/Zulip-FFFFFF.svg?style=for-the-badge&logo=zulip&logoColor=black)`|
+
 ## implementation details
 
 - iterates over all [Simple Icons](https://github.com/simple-icons/simple-icons)

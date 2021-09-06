@@ -1,0 +1,24 @@
+{
+  "name": "a11y-markdown-badges",
+  "version": "1.0.0",
+  "description": "accessible badges via shields.io and simple icons",
+  "main": "index.js",
+  "scripts": {
+    "it": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctcpip/a11y-markdown-badges.git"
+  },
+  "author": "Chris de Almeida",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ctcpip/a11y-markdown-badges/issues"
+  },
+  "homepage": "https://github.com/ctcpip/a11y-markdown-badges#readme",
+  "devDependencies": {
+    "get-contrast": "^3.0.0",
+    "simple-icons": "^5.13.0"
+  }
+}

@@ -19,6 +19,8 @@ const readme = [
   ,''
   ,'## the badges'
   ,''
+  ,'I suggest visiting the [README](README.md) file directly to better see the badges, as they should appear larger there.'
+  ,''
   ,'| Name | Badge | Markdown Snippet |'
   ,'| --- | --- | --- |'
 ];

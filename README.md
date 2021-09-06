@@ -14,6 +14,8 @@ until that gets resolved, for any poor contrast badges, I suggest darkening the 
 
 ## the badges
 
+I suggest visiting the [README](README.md) file directly to better see the badges, as they should appear larger there.
+
 | Name | Badge | Markdown Snippet |
 | --- | --- | --- |
 |42|![42](https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white)|`![42](https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white)`|

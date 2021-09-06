@@ -39,7 +39,7 @@ for (const iconSlug in simpleIcons) {
     
   }
 
-  const badgeURL = `https://img.shields.io/badge/${icon.title.replace(/ /g,'_')}-${icon.hex}.svg?style=for-the-badge&logo=${icon.slug}&logoColor=${fgColor}`
+  const badgeURL = `https://img.shields.io/badge/${icon.title.replace(/ /g,'_').replace(/-/g,'--')}-${icon.hex}.svg?style=for-the-badge&logo=${icon.slug}&logoColor=${fgColor}`
   const badgeLine = `|${icon.title}|![${icon.title}](${badgeURL})|\`![${icon.title}](${badgeURL})\`|`;
 
   readme.push(badgeLine);

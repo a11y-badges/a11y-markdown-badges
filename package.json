@@ -1,7 +1,7 @@
 {
   "name": "a11y-markdown-badges",
   "version": "1.0.0",
-  "description": "accessible badges via shields.io and simple icons",
+  "description": "accessible markdown badges via a11y badges",
   "main": "index.js",
   "scripts": {
     "it": "node index.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ctcpip/a11y-markdown-badges#readme",
   "devDependencies": {
-    "get-contrast": "^3.0.0",
+    "eslint": "^7.32.0",
     "simple-icons": "^5.13.0"
   }
 }
